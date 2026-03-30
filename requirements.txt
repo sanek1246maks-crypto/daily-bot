@@ -3,4 +3,3 @@ aiosqlite==0.20.0
 APScheduler==3.10.4
 python-dotenv==1.0.1
 pytz==2024.1
-pydantic==1.10.13
